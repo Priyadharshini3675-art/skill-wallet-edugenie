@@ -1,0 +1,11 @@
+EDUGENIE ONE-CLICK WINDOWS START
+
+1. Download/extract the ZIP into a NEW folder.
+2. Install Python 3.10+ if necessary.
+3. Double-click Run_EduGenie.bat.
+4. Supply a NEW Gemini key from https://aistudio.google.com/apikey
+5. The launcher checks the connection, then opens http://127.0.0.1:8000
+6. Keep the black window open while using EduGenie.
+
+If Google rejects the key, inspect the black window for the exact error. The ZIP DOES NOT include any Google key. Never share the .env file.
+If localhost:8000 is busy close the old project window first.
